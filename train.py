@@ -24,7 +24,7 @@ import argparse
 # construct the argument parse and parse the arguments
 
 # grab the number of GPUs and store it in a conveience variable
-G = 4
+G = 4 # for server
 
 # definine the total number of epochs to train for along with the
 # initial learning rate
